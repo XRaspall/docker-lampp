@@ -1,6 +1,6 @@
 # docker-lampp
 
-Docker example with Apache, MySql 8.0, PhpMyAdmin and Php 8.0
+Docker example with Apache with PHP 8.0, MySql, PhpMyAdmin
 
 I use docker-compose as an orchestrator. To run these containers:
 
